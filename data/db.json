@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "Todo": 6,
+    "TodoList": 7,
+    "User": 10,
+    "UserCredentials": 10
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"todoListId\":1,\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"todoListId\":1,\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"todoListId\":2,\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"todoListId\":1,\"id\":4}",
+      "5": "{\"title\":\"grocery list\",\"desc\":\"string\",\"isComplete\":true,\"todoListId\":2,\"id\":5}"
+    },
+    "TodoList": {
+      "1": "{\"title\":\"Sith lord's check list\",\"color\":\"blue\",\"id\":1}",
+      "2": "{\"title\":\"My daily chores\",\"color\":\"red\",\"id\":2}",
+      "3": "{\"title\":\"Rrocery list\",\"color\":\"Grey\",\"id\":3}",
+      "6": "{\"title\":\"string\",\"color\":\"string\",\"id\":6}"
+    },
+    "User": {
+      "926c73c7-b2c3-43e8-b247-dac20c19d1e5": "{\"id\":\"926c73c7-b2c3-43e8-b247-dac20c19d1e5\",\"email\":\"testuser2@abc.com\"}",
+      "a5168193-8736-46a2-8436-58313d829989": "{\"id\":\"a5168193-8736-46a2-8436-58313d829989\",\"email\":\"testuser3@abc.com\"}",
+      "391818f8-e7df-4258-9db8-f6f085dbf525": "{\"id\":\"391818f8-e7df-4258-9db8-f6f085dbf525\",\"email\":\"testuser2@abc.com\"}",
+      "0ebbb1f3-e74b-41a9-b28a-60ca187553b1": "{\"id\":\"0ebbb1f3-e74b-41a9-b28a-60ca187553b1\",\"email\":\"testuser2@abc.com\"}",
+      "51782ae5-6061-49cc-a813-2e5943a007da": "{\"id\":\"51782ae5-6061-49cc-a813-2e5943a007da\",\"email\":\"testuser2@abc.com\"}",
+      "7afbf42b-a7d3-40ca-8597-774502c296dd": "{\"id\":\"7afbf42b-a7d3-40ca-8597-774502c296dd\",\"email\":\"testuser2@abc.com\"}",
+      "fc8b916d-a032-4849-b9b5-fea5565313e3": "{\"id\":\"fc8b916d-a032-4849-b9b5-fea5565313e3\",\"email\":\"testuser5@abc.com\"}",
+      "951343e5-d580-491b-abdf-1552da6424ca": "{\"id\":\"951343e5-d580-491b-abdf-1552da6424ca\",\"email\":\"testuser5@abc.com\"}",
+      "32b6ca31-d91b-4e7d-9a03-7bcc7704b257": "{\"id\":\"32b6ca31-d91b-4e7d-9a03-7bcc7704b257\",\"email\":\"testuser5@abc.com\"}"
+    },
+    "UserCredentials": {
+      "ddcab0c6-3db6-48ce-ab7c-a6664e1ec5b5": "{\"id\":\"ddcab0c6-3db6-48ce-ab7c-a6664e1ec5b5\",\"password\":\"$2a$10$N3EmaRXypyB8QPhXCbDy6utQNN.BrPcuN6yQ6klQEgETWnu0zxKpu\",\"userId\":\"926c73c7-b2c3-43e8-b247-dac20c19d1e5\"}",
+      "2a5b5fce-456c-4cc1-bb01-f18ef4ef5aae": "{\"id\":\"2a5b5fce-456c-4cc1-bb01-f18ef4ef5aae\",\"password\":\"$2a$10$ilwfmBoxNrPQj72GRDtJgeu2gDr6EaOovgYEoULcEiHhv4i2UCDYu\",\"userId\":\"a5168193-8736-46a2-8436-58313d829989\"}",
+      "069b3ab3-ea42-43a3-8d9e-dc5a1d7e61ca": "{\"id\":\"069b3ab3-ea42-43a3-8d9e-dc5a1d7e61ca\",\"password\":\"$2a$10$HTHZ082NvZFW7uk0bHfr2e9FRW6KgiFEqg091./mKSn3HqZdpVKAy\",\"userId\":\"391818f8-e7df-4258-9db8-f6f085dbf525\"}",
+      "ad6368ca-5a6f-4de7-8c01-9b2e3beaf00e": "{\"id\":\"ad6368ca-5a6f-4de7-8c01-9b2e3beaf00e\",\"password\":\"$2a$10$baBOqNnQwS0XtBg9xOBOoO/cRJKsPFnR.19IDZv83BInxwE31QWsS\",\"userId\":\"0ebbb1f3-e74b-41a9-b28a-60ca187553b1\"}",
+      "e4e3001a-a5af-4521-bbf5-a20094c0eec6": "{\"id\":\"e4e3001a-a5af-4521-bbf5-a20094c0eec6\",\"password\":\"$2a$10$25VtavmzlaH.Df6AKaJFDu3x14MdKzIWci7H9DOibxR3e4iCX7YeK\",\"userId\":\"51782ae5-6061-49cc-a813-2e5943a007da\"}",
+      "abacd814-6e09-41d3-81e3-b5a47ac63976": "{\"id\":\"abacd814-6e09-41d3-81e3-b5a47ac63976\",\"password\":\"$2a$10$XJ1XcPsZEkHkALubzvrwl.kfhyYGeFY1TsQB3.1Ta3PKNjq/o.uKu\",\"userId\":\"7afbf42b-a7d3-40ca-8597-774502c296dd\"}",
+      "21791bb6-f1ef-4fe0-9114-2bc4c6e9dd97": "{\"id\":\"21791bb6-f1ef-4fe0-9114-2bc4c6e9dd97\",\"password\":\"$2a$10$bpSoYRdNlRpVd9P2wfv26.5FewJ2QTTHK/B1LtjK1EQzWypRWaou.\",\"userId\":\"fc8b916d-a032-4849-b9b5-fea5565313e3\"}",
+      "2b05d4e3-f94d-4b93-881b-f73e2781c9a8": "{\"id\":\"2b05d4e3-f94d-4b93-881b-f73e2781c9a8\",\"password\":\"$2a$10$jkwgezHxVv0jgeMyIhYLgOcSbCpVy2iMvv0sp7QM2hn0AfRCbA/P2\",\"userId\":\"951343e5-d580-491b-abdf-1552da6424ca\"}",
+      "85b92ea6-c5ad-4a73-9457-53974ceb7ce5": "{\"id\":\"85b92ea6-c5ad-4a73-9457-53974ceb7ce5\",\"password\":\"$2a$10$j8GbiH9YuDziq9zZnQsETe1YToPeIB8cNfJoJHHjda3wA1peKQ0by\",\"userId\":\"32b6ca31-d91b-4e7d-9a03-7bcc7704b257\"}"
+    }
+  }
+}
